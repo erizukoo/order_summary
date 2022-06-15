@@ -86,7 +86,7 @@ button {
 }
 
 .bg__image {
-  background: url("file:///Users/erica/Downloads/order-summary-component-main/images/pattern-background-desktop.svg")
+  background: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/037/289/original/Screen_Shot_2022-06-15_at_2.34.07_AM.png?1655274891")
     no-repeat center/cover;
   height: 400px;
   position: absolute;
@@ -130,7 +130,7 @@ button {
 
 @media (min-width: 768px) {
   .bg__image {
-    background: url("file:///Users/erica/Downloads/order-summary-component-main/images/pattern-background-desktop.svg")
+    background: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/037/289/original/Screen_Shot_2022-06-15_at_2.34.07_AM.png?1655274891")
       no-repeat center/cover;
     height: 50vh;
   }
